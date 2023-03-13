@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 藍牙遙控機器人實作
+title: 自動務農機器人實作
 author: [lantian liang]
 category: [Lecture]
 tags: [jekyll, ai]
