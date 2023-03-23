@@ -55,8 +55,8 @@ tags: [jekyll, ai]
 5感測器MCU：負責監測機器人周圍環境的各種傳感器，如超聲波、紅外線、壓力、溫度、濕度等，並將感測到的信息傳遞給主板MCU進行處理。
 
 ---
-
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
+**系統方塊圖:**
+![](https://github.com/juice9527/MCU-project/blob/main/images/F3A5F93E-66A4-4F49-9A05-9833E1FDB6DA.jpeg?raw=true)
 
 ---
 ### 參考範例
